@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\rafa\Desktop\Trabalhos\Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3886760736.index
+3397830095.index
+3920084979.index
+4178874029.index
+489554637.index
+910658798.index
